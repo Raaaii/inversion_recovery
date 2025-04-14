@@ -1,0 +1,9 @@
+
+---
+
+### ✅ `requirements.txt`
+
+numpy
+matplotlib
+scipy
+plotly
